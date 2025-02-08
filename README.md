@@ -1,56 +1,40 @@
-# Maze_Collect_Reward
+# Heily Rodríguez Rodríguez 👩‍💻
+---
 
-¡Bienvenido a **Maze_Collect_Reward**! Este es un emocionante juego de laberinto de generación aleatoria con dos jugadores, donde el objetivo es recolectar la mayor cantidad de dinero posible. El juego ofrece una perspectiva diferente y entretenida con modificadores que pueden ser trampas o beneficios, y una variedad de fichas, cada una con habilidades únicas.
+## 🌟 Sobre mí
 
-## Descripción
+- 🎓 **Estudiante de Ciencias de la Computación**
+- 🏫 **Univerdidad** Universidad de La Habana.
+- 💡 **Habilidades técnicas**: 
+  - Lenguajes de programación: **C#**.
+- 🌸 **Intereses**: 
+  - Desarrollo de videojuegos.
+  - Algoritmos y estructuras de datos.
+  - Aprendizaje continuo en nuevas tecnologías.
 
-En **Maze_Collect_Reward**, los jugadores navegan a través de un laberinto generado aleatoriamente, recolectando dinero y diamantes, teniendo cuidado con los modificadores. Cada jugador recibe una ficha aleatoria con una habilidad especial. Los jugadores se mueven usando las teclas de direcciones y pueden usar su habilidad pulsando la tecla `A`.
+---
 
-### Características Principales
+## 🎮 Proyectos Destacados
 
-- **Generación Aleatoria de Laberintos**: Cada partida es única gracias a la generación aleatoria del laberinto.
-- **Modificadores**: Trampas y beneficios repartidos aleatoriamente por el laberinto.
-- **Variedad de Dinero**: Existen monedas con el valor de 1 y diamantes que valen 3 repartidos por el laberinto.
-- **Variedad de Fichas**: Cada jugador recibe una ficha asignada aleatoriamente con una habilidad especial.
-- **Controles Sencillos**: Usa las teclas de direcciones para moverte y la tecla `A` para usar tu habilidad.
-- **Juego en Consola**:Desarrollado en C# utilizando la librería Spectre.Console.
+### 🧩 Maze Collect Reward
+[![Repositorio](https://img.shields.io/badge/GitHub-Repositorio-pink)](https://github.com/heilyrodriguez225/Maze_Collect_Reward)
 
-### Funcionalidades del juego
+Este es un emocionante juego de laberinto de generación aleatoria para dos jugadores. El objetivo es recolectar la mayor cantidad de dinero posible mientras te enfrentas a modificadores que pueden ser trampas o beneficios. Cada ficha tiene habilidades únicas, lo que añade un toque estratégico al juego. 🕹️💰
 
-- **Chips**:Crea las fichas con su habilidad.
-- **Draw**:Dibuja todo el juego
-- **GameManager**:Controla el flujo del juego.
-- **Maze**: Genera el laberinto de forma recursiva, le pone máscaras para hacerlo de conexión múltiple y le añade el dinero y los modificadores.
-- **Modifiers**: Crea los modifificadores.
-- **Money**: Crea el dinero de tipo coin y diamont.
-- **Parameters**: Contenedor de dependencia para pasarle los parámetros pasa el uso de las habilidades y activar los modificadores.
-- **Players**: Crea un jugador, su movimiento, lo inicializa en una posición y le asigna una ficha aleatoriamente.
-- **VictoryCondition**: Determina la condición de victoria del juego.
+---
 
-### Instalación
+## 📬 Contacto
 
-Sigue estos pasos para clonar y configurar el proyecto:
+- 📧 **Correo electrónico**: [heilyrodriguez225@gmail.com](mailto:heilyrodriguez225@gmail.com)
+- 📱 **Teléfono**: +53 56414659
+- 💼 **GitHub**: [heilyrodriguez225](https://github.com/heilyrodriguez225)
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/heilyrodriguez225/Maze_Collect_Reward.git
-2. Navega al directorio del proyecto:
-   cd Maze_Collect_Reward
-3. Restaura los paquetes necesarios:
-   dotnet restore
-4. Ejecuta el proyecto:
-   dotnet run
-   
-## Screenshot
-![Captura desde 2025-01-31 01-10-40](https://github.com/user-attachments/assets/e07fe158-8d84-4786-99fa-4fad7fe932e2)
+---
 
-## Tecnologías Utilizadas
+## 🌈 Hobbies e Intereses
 
-- C#
-- .NET
-- Spectre.Console
-- 
-## Contacto
-
-- Email: heilyrodriguez225@gmail.com
-- GitHub: https://github.com/heilyrodriguez225
+Cuando no estoy programando, me gusta:
+- 🎮 Jugar videojuegos.
+- 📚 Leer sobre nuevas tecnologías.
+- 🎵 Escuchar música.
+- 🌸 Disfrutar de la naturaleza.
