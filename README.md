@@ -76,5 +76,6 @@ Juego de laberinto para dos jugadores con generación procedural. Incorpora fich
 ### Contacto
 
 <p>
+  <a href="https://www.linkedin.com/in/heily-rodr%C3%ADguez-rodr%C3%ADguez-b66335419"><img src="https://img.shields.io/badge/LinkedIn-Heily%20Rodr%C3%ADguez-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:heilyrodriguez225@gmail.com"><img src="https://img.shields.io/badge/Email-heilyrodriguez225%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
